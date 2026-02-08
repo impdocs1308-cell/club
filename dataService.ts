@@ -8,7 +8,7 @@ import { Player, Team, Tournament, Announcement, Match } from './types';
  * 2. Paste the URL into API_ENDPOINT below.
  * 3. The service will then attempt to fetch/push data to your sheet.
  */
-const API_ENDPOINT = ''; // PLACEHOLDER: Put your Google Apps Script Web App URL here
+const API_ENDPOINT = 'https://script.google.com/macros/s/AKfycbxTnIrcSvDZhi7F4VrnZ9cv6mt2pOObVSvHiQYx6wfysZNG7QsrIvKa0_UE2l26iFQ/exec'; // PLACEHOLDER: Put your Google Apps Script Web App URL here
 
 const STORAGE_KEY = 'ETP_DATA_STORE';
 
