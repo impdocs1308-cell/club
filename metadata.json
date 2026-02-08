@@ -1,0 +1,7 @@
+{
+  "name": "Elite Tournament Pro",
+  "description": "A comprehensive tournament management system with live rankings, match countdowns, and a full-featured admin panel for tracking sports statistics and player performance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
